@@ -568,3 +568,11 @@
 p.mb-0 {
     color: #000;
 }
+
+@media only screen and (max-width: 600px){
+    .custom-title-footer {
+    position: absolute;
+    margin-top: 50%;
+    max-width: -2%;
+}
+}
